@@ -8,7 +8,9 @@ import sys
 
 #
 # Complete the 'diagonalDifference' function below.
-#
+# Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+# diagonalDifference takes the following parameter:
+# int arr[n][m]: an array of integers
 # The function is expected to return an INTEGER.
 # The function accepts 2D_INTEGER_ARRAY arr as parameter.
 #
